@@ -1,0 +1,19 @@
+@font-face {
+  font-family: roboto;
+  src: url("https://fonts.googleapis.com/css2?family=Dosis&family=Roboto+Slab:wght@300&display=swap");
+}
+
+body {
+  margin: 0;
+  font-family: roboto, "Dosis", sans-serif -apple-system, "Roboto Slab", serif,
+    BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: 500;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
